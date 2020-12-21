@@ -1,2 +1,4 @@
 # FlutterExample
-Flutter exercise Application
+Flutter exercise Application for android with material design
+
+
